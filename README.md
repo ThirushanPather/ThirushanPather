@@ -42,4 +42,4 @@ A Python game using MediaPipe hand tracking to swat aliens with your webcam-trac
 Always exploring new technologies in AI, computer vision, and full-stack development. More web development projects coming soon!
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/thirushan-pather](https://www.linkedin.com/in/thirushan-pather-6b6aba1b2/) - Feel free to DM me!
+- 💼 [LinkedIn](https://www.linkedin.com/in/thirushan-pather-6b6aba1b2/) - Feel free to DM me!
